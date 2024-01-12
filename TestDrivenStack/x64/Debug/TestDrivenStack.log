@@ -1,2 +1,6 @@
-﻿  TestDrivenStack.cpp
-  TestDrivenStack.vcxproj -> C:\Users\james\Downloads\UnitTest1\x64\Debug\TestDrivenStack.exe
+﻿  Stack.cpp
+C:\Users\james\Downloads\UnitTest1\Test-Driven-Development-Cpp-Test\TestDrivenStack\Stack.cpp(29,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  TestDrivenStack.cpp
+  Generating Code...
+  LINK : C:\Users\james\Downloads\UnitTest1\Test-Driven-Development-Cpp-Test\x64\Debug\TestDrivenStack.exe not found or not built by the last incremental link; performing full link
+  TestDrivenStack.vcxproj -> C:\Users\james\Downloads\UnitTest1\Test-Driven-Development-Cpp-Test\x64\Debug\TestDrivenStack.exe

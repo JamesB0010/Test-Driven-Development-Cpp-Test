@@ -1,6 +1,6 @@
 # Test Driven Development Cpp Test
  
-This is my 1st try at Test Driven Development. I made a stack and was inspired by Uncle Bob!
+This is my 1st try at Test Driven Development. I made a VERY SIMPLE stack and was inspired by Uncle Bob!
 
 <br>
 

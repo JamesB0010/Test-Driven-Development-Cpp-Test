@@ -1,1 +1,4 @@
-﻿  UnitTest1.vcxproj -> C:\Users\james\Downloads\Test-Driven-Development-Cpp-Test\x64\Debug\UnitTest1.dll
+﻿  UnitTest1.cpp
+  LINK : C:\Users\james\Downloads\Test-Driven-Development-Cpp-Test\x64\Debug\UnitTest1.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\james\Downloads\Test-Driven-Development-Cpp-Test\x64\Debug\UnitTest1.lib and object C:\Users\james\Downloads\Test-Driven-Development-Cpp-Test\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\james\Downloads\Test-Driven-Development-Cpp-Test\x64\Debug\UnitTest1.dll
